@@ -1,0 +1,24 @@
+name: lim
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - cartopy
+  - esmf
+  - netcdf4
+  - jupyter
+  - matplotlib
+  - statsmodels
+  - xarray
+  - pyyaml
+  - pytables
+  - pyspharm
+  - scipy
+  - esmpy
+  - jupytext
+  
